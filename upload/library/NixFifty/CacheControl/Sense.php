@@ -1,0 +1,7 @@
+<?php
+
+class XFCP_NixFifty_CacheControl_XenForo_ControllerPublic_Attachment extends XenForo_ControllerPublic_Attachment {}
+
+class XFCP_NixFifty_CacheControl_XenForo_ViewPublic_Attachment_View extends XenForo_ViewPublic_Attachment_View {}
+
+class XFCP_NixFifty_CacheControl_XenForo_Model_Attachment extends XenForo_Model_Attachment {}
